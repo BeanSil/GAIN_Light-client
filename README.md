@@ -4,5 +4,5 @@ client for GAIN_Light
 
 ## How To Start
 
-`yarn`
-`yarn dev`
+`yarn
+yarn dev`
